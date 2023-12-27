@@ -1,1 +1,1 @@
-# this is just a simple maluan to learn git.
+# this is just a simple manual to learn git.
